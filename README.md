@@ -17,15 +17,15 @@ Ready to using files are in `dist` folder.
 HTML:
 ```html
 <div class="cinnamon">
-	<div class="cinnamon-item">
-		...
-	</div>
-	<div class="cinnamon-item">
-		...
-	</div>
-	<div class="cinnamon-item">
-		...
-	</div>
+      <div class="cinnamon-item">
+        <div style="background-image: url(http://lorempixel.com/1280/800/abstract)" class="slide-demo"></div>
+      </div>
+      <div class="cinnamon-item">
+        <div style="background-image: url(http://lorempixel.com/1280/800/sports)" class="slide-demo"></div>
+      </div>
+      <div class="cinnamon-item">
+        <div style="background-image: url(http://lorempixel.com/1280/800/cats)" class="slide-demo"></div>
+      </div>
 </div>
 
 ```
